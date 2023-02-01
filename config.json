@@ -16,7 +16,6 @@
 					"path": "TROJAN_PATH"
 				}
 			}
-		}
 	],
 	"outbounds": [{
 		"protocol": "freedom",
